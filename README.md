@@ -11,3 +11,5 @@ dotnet ef migrations add init
 dotnet ef database update
 dotnet ef migrations add 'image_evento'
 dotnet ef database update
+
+npm install #instala package.json
